@@ -1,0 +1,4 @@
+
+interface Keyboard {
+String display();
+}
